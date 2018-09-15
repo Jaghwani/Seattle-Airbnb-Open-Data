@@ -13,9 +13,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 ## Project Motivation<a name="motivation"></a>
 
 For this project, I was intersected in using Seattle AirBnB homes data to better understand:
-1.	Which are the homes seasons in Seattle?
-2.	Which are the neighborhoods in homes business Seattle?
-3.	Which are features were assisting with price in Seattle?
+
+1. What Seattle Airbnb home-sharing price rates are?
+2. What seasons are occurring in Seattle?
+3. How many listings are in Seattle neighborhoods with price rates?
+4. What are the important factors that are affect accommodation prices in Seattle?
 
 
 ## File Descriptions <a name="files"></a>
