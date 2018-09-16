@@ -30,4 +30,4 @@ There are 1 notebook available here to showcase work related to the above questi
 The main findings of the code can be found at the post available [here](https://jaghwani.tumblr.com/post/178138334271/3-things-about-seattle-home-sharing).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/home). Otherwise, feel free to use the code here as you would like!
+Must give credit to Udacity cources for code ideas, and to kaggle/AirBnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/home). Otherwise, feel free to use the code here as you would like!
